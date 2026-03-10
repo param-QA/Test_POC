@@ -1,0 +1,7 @@
+import base64
+
+# This looks like a harmless string, but it's actually a hidden command
+malicious_payload = "cHJpbnQoJ2hhY2tlZCcp" 
+
+# This is a classic "Obfuscation" pattern that PRevent catches
+eval(base64.b64decode(malicious_payload))
