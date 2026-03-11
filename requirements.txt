@@ -1,0 +1,17 @@
+# VULNERABILITY: CVE-2023-37201 - High severity (RCE in Jinja2)
+jinja2==3.1.2
+
+# VULNERABILITY: CVE-2022-40897 - ReDoS in setuptools
+setuptools==65.5.0
+
+# VULNERABILITY: CVE-2023-24329 - URL bypass in urllib3
+urllib3==1.26.14
+
+# VULNERABILITY: CVE-2023-44451 - Denial of Service in requests
+requests==2.31.0
+
+# VULNERABILITY: CVE-2022-23491 - Validation bypass in certifi
+certifi==2022.9.24
+
+# VULNERABILITY: CVE-2021-33503 - ReDoS in urllib3
+urllib3==1.26.4
