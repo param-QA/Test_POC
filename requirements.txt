@@ -1,0 +1,4 @@
+# This version of Jinja2 has a High/Critical vulnerability (CVE-2024-22195)
+Jinja2==3.1.2
+# Old requests version with leak issues
+requests==2.20.0
