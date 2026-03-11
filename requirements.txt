@@ -1,0 +1,6 @@
+# Triggers CVE-2024-22195 (Cross-site Scripting)
+Jinja2==3.1.2
+# Triggers CVE-2018-18074 (Credential Leak)
+requests==2.20.0
+# Triggers CVE-2023-43804 (Cookie Leak)
+urllib3==2.0.4
